@@ -73,7 +73,7 @@ span {
   font-family: "Montserrat", sans-serif;
   border-radius: 10px;
 }
-@media screen and (min-width: 600px) and (min-width: 992px) {
+@media screen and (min-width: 600px) {
   .card {
     display: flex;
     width: 50%;
@@ -106,7 +106,7 @@ span {
     padding-top: 10px;
   }
   h1 {
-    padding-right: 100px;
+    padding-right: 80px;
   }
   .innertext {
     padding-right: 50px;
