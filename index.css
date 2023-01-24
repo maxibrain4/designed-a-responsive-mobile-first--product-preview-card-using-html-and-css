@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
 }
-.main {
+main {
   width: 100%;
   min-height: 100vh;
   background-color: hsl(30, 38%, 92%);
@@ -23,6 +23,7 @@
 }
 .pix {
   width: 100%;
+  object-fit: cover;
   border-top-right-radius: 10px;
   border-top-left-radius: 10px;
 }
